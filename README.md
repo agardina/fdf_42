@@ -32,7 +32,7 @@ The following options are available:
 
 ![img3](https://user-images.githubusercontent.com/67087093/98943334-9de8de80-24ef-11eb-9189-698987d40433.gif)
 
-## Comptability
+## Compatibility
 
 This project is based on a grapical library named "minilibx" provided by 42.\
 \
