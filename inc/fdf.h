@@ -6,15 +6,15 @@
 /*   By: agardina <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/28 11:33:36 by agardina          #+#    #+#             */
-/*   Updated: 2020/02/03 19:07:50 by agardina         ###   ########.fr       */
+/*   Updated: 2020/11/12 12:26:47 by agardina         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FDF_H
 
 # define FDF_H
-# define WIN_HEIGHT 650
-# define WIN_WIDTH 1000
+# define WIN_HEIGHT 750
+# define WIN_WIDTH 1250
 # define AQUA_MARINE 0x7FFFD4
 # define BEIGE 0xF5F5DC
 # define BLUE 0x0000CD

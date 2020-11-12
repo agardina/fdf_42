@@ -11,7 +11,7 @@ NAME = fdf
 
 CC = gcc
 
-CFLAGS = -Wall -Wextra -Werror
+CFLAGS = -O2 -Wall -Wextra -Werror
 
 MLX_DIR = minilibx/
 MLX = $(MLX_DIR)libmlx.a
